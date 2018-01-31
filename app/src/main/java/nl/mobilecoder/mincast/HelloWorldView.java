@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Created by jaap on 22/12/2017.
+ * Created by jaap pruijs on 22/12/2017.
  */
 
 public class HelloWorldView extends View {
